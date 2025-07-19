@@ -6,7 +6,7 @@ export default function Page() {
     <section>
       <a href={socialLinks.twitter} target="_blank">
         <Image
-          src="/profile.png"
+          src="/eu.jpeg"
           alt="Profile photo"
           className="rounded-full bg-gray-100 block lg:mt-5 mt-0 lg:mb-5 mb-10 mx-auto sm:float-right sm:ml-5 sm:mb-5 grayscale hover:grayscale-0"
           unoptimized
@@ -16,48 +16,28 @@ export default function Page() {
         />
       </a>
       <h1 className="mb-8 text-2xl font-medium tracking-tight">
-        Portfolio template!
+        Sobre Mim!
       </h1>
       <div className="prose prose-neutral dark:prose-invert">
-        <p>
-          A clean, fast, and lightweight portfolio template built with Next.js,
-          Vercel, and Tailwind CSS.
+       <p>
+          Ao longo da minha carreira como Desenvolvedor, participei de projetos de diferentes portes e complexidades, desde a manutenção de sistemas 
+          até o desenvolvimento de APIs REST e a construção de plataformas para gerenciamento e realização de promoções. Como Desenvolvedor Back-end, 
+          atuei em campanhas promocionais para empresas como AMBEV e Friboi, entre outras.
         </p>
         <p>
-          Nextfolio has everything you need for a portfolio: MDX blog, SEO, RSS,
-          Atom & JSON feeds, analytics, Tweet & YouTube embeds, KaTeX and {""}
-          <a
-            target="_blank"
-            href="https://github.com/1msirius/Nextfolio?tab=readme-ov-file#features"
-          >
-            more
-          </a>
-          .
+          Posteriormente, fui responsável pela garantia da qualidade de aplicações mobile. Nessa função, gerenciei e 
+          criei massas de teste, elaborei testes automatizados, defini cenários de teste e realizei testes manuais, de integração, 
+          funcionais e de regressão. Meu objetivo como QA não foi apenas identificar e corrigir o maior número possível de erros e bugs, mas também garantir 
+          entregas de alta qualidade, priorizando a segurança do sistema e dos dados envolvidos.
         </p>
         <p>
-          Nextfolio is{" "}
-          <a href={socialLinks.github} target="_blank">
-            open-source
-          </a>{" "}
-          and fully customizable, making it easy to add more features.
+          Atuei em aplicações do setor financeiro, que incluíam desde plataformas para gerenciamento de 
+          cartões corporativos até bancos digitais, abrangendo funcionalidades como transferências tradicionais e o sistema PIX. Tive, inclusive, o privilégio de 
+          trabalhar como QA durante a implementação do PIX, contribuindo para a sua qualidade e segurança.
         </p>
         <p>
-          <a
-            href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F1msirius%2FNextfolio"
-            target="_blank"
-          >
-            Deploy
-          </a>{" "}
-          your Nextfolio site with Vercel in minutes and follow the set up
-          instructions in the{" "}
-          <a href="/blog/getting-started">Getting Started</a> post.
-        </p>
-        <p>
-          Built and maintained by{" "}
-          <a href="https://imsirius.xyz/" target="_blank">
-            Sirius
-          </a>
-          .
+          Atuei na Sensedia como Analista de Qualidade na área de consultoria, tendo a oportunidade de participar de diversos projetos. 
+          Atualmente, continuo na Sensedia como consultor no ecossistema do Open Finance Brasil, desempenhando a função de Analista de Qualidade.
         </p>
       </div>
     </section>

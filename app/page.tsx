@@ -20,24 +20,10 @@ export default function Page() {
       </h1>
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          Ao longo da minha carreira como Desenvolvedor, participei de projetos de diferentes portes e complexidades, desde a manutenção de sistemas 
-          até o desenvolvimento de APIs REST e a construção de plataformas para gerenciamento e realização de promoções. Como Desenvolvedor Back-end, 
-          atuei em campanhas promocionais para empresas como AMBEV e Friboi, entre outras.
-        </p>
-        <p>
-          Posteriormente, fui responsável pela garantia da qualidade de aplicações mobile. Nessa função, gerenciei e 
-          criei massas de teste, elaborei testes automatizados, defini cenários de teste e realizei testes manuais, de integração, 
-          funcionais e de regressão. Meu objetivo como QA não foi apenas identificar e corrigir o maior número possível de erros e bugs, mas também garantir 
-          entregas de alta qualidade, priorizando a segurança do sistema e dos dados envolvidos.
-        </p>
-        <p>
-          Atuei em aplicações do setor financeiro, que incluíam desde plataformas para gerenciamento de 
-          cartões corporativos até bancos digitais, abrangendo funcionalidades como transferências tradicionais e o sistema PIX. Tive, inclusive, o privilégio de 
-          trabalhar como QA durante a implementação do PIX, contribuindo para a sua qualidade e segurança.
-        </p>
-        <p>
-          Atuei na Sensedia como Analista de Qualidade na área de consultoria, tendo a oportunidade de participar de diversos projetos. 
-          Atualmente, continuo na Sensedia como consultor no ecossistema do Open Finance Brasil, desempenhando a função de Analista de Qualidade.
+          Profissional com 8 anos de carreira na área de tecnologia, atuando como Desenvolvedor de Software em diferentes frentes, incluindo as 
+          funções de Desenvolvedor Back-end, Analista de Software e Analista de Qualidade. Possuo especialização no desenvolvimento de APIs robustas e confiáveis, 
+          além de ampla experiência na criação e manutenção de testes automatizados, garantindo confiabilidade e qualidade das aplicações. Ao longo da minha trajetória, 
+          contribui para projetos diversos, sempre com foco em qualidade, eficiência e inovação tecnológica.
         </p>
       </div>
     </section>

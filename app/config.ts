@@ -1,6 +1,6 @@
 export const metaData = {
   baseUrl: "http://localhost:3000/",
-  title: "Maurício Portfólio",
+  title: "Meu Portfólio",
   name: "Mauricio",
   ogImage: "/opengraph-image.png",
   description:
@@ -8,9 +8,9 @@ export const metaData = {
 };
 
 export const socialLinks = {
-  twitter: "https://x.com/?lang=pt",
+  // twitter: "https://x.com/?lang=pt",
   github: "https://github.com/jmauriciofilho",
-  instagram: "https://www.instagram.com/",
-  linkedin: "https://www.linkedin.com/",
-  email: "mailto:example@gmail.com",
+  // instagram: "https://www.instagram.com/",
+  linkedin: "https://www.linkedin.com/in/mauriciopereira/",
+  email: "mailto:josemauriciobpfilho@gmail.com",
 };
